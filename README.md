@@ -1,4 +1,6 @@
-Originak program by Conjac Jelly Charlieyan.
+# CJCNC-EX MIDI Note Counter Video Generator
+
+Original program by Conjac Jelly Charlieyan.
 
 CJCNC-EX is a mod by Pentagon-BeeHive-LoL.
 - Fixed loading MIDIs that have an extreme lenght in ticks, no longer causing the OutOfMemoryException error.
