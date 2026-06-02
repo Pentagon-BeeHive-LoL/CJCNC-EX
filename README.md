@@ -7,4 +7,4 @@ CJCNC-EX is a mod by Pentagon-BeeHive-LoL.
 - Fixed loading Tempo Tracks with an extreme amount of BPM Events. The original code used BubbleSort to sort the events which would take astronomical amounts of times with MIDIs that have an extreme amount of BPM Events. Now uses QuickSort which is much faster.
 
 Mistake:
-- Track size is showing total tracks instead of actual track size, I don't care enough to fix it.
+- Track size is showing total tracks amount value instead of actual track size values, I don't care enough to fix it.
